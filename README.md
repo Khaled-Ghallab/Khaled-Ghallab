@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khaled-Ghallab
+- 👋 Hi, I’m Khaled Ghallab
 - ✨ Meet Khaled Ghallab, an accomplished software developer with a distinguished expertise in website and mobile application development.
 - ✨ With over a decade of hands-on experience, Khaled has crafted cutting-edge solutions for a diverse clientele, from startups to established enterprises.
 - ✨ His proficiency spans the entire software development lifecycle, from initial concept to deployment and maintenance. Khaled is recognized for his meticulous approach to coding, ensuring scalable and efficient solutions that meet stringent quality standards.
