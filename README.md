@@ -1,11 +1,22 @@
-- 👋 Hi, I’m Khaled Ghallab
-- ✨ Meet Khaled Ghallab, an accomplished software developer with a distinguished expertise in website and mobile application development.
-- ✨ With over a decade of hands-on experience, Khaled has crafted cutting-edge solutions for a diverse clientele, from startups to established enterprises.
-- ✨ His proficiency spans the entire software development lifecycle, from initial concept to deployment and maintenance. Khaled is recognized for his meticulous approach to coding, ensuring scalable and efficient solutions that meet stringent quality standards.
-- ✨His passion for innovation and user-centric design has consistently translated into impactful digital experiences that resonate with end-users.
+# Khaled Ghallab · خالد غلاب
 
+**Full-Stack Developer & UI/UX Designer** — web & mobile · Riyadh, Saudi Arabia
 
-<!---
-Khaled-Ghallab/Khaled-Ghallab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+مطوّر متكامل ومصمّم واجهات — أبني منتجات رقميّة ثنائيّة اللغة (عربيّ/إنجليزيّ) بعناية في التفاصيل.
+
+🌐 **[khaledghallab.com](https://khaledghallab.com)** — portfolio · case studies · journal · free tools
+
+## What I build
+
+- **[iAuth](https://khaledghallab.com/en/work/iauth)** — local-first 2FA authenticator for Android & iOS: TOTP, HOTP & Steam Guard, encrypted backups, no backend
+- **[iQuran](https://khaledghallab.com/en/work/iquran)** — a pure, ad-free, account-free Mushaf for Android & iOS
+- **[khaledghallab.com](https://khaledghallab.com/en/work/portfolio)** — my bilingual EN/AR portfolio: TanStack Start + React 19 on Cloudflare Workers (D1 · R2 · Durable Objects)
+- **[Free browser tools](https://khaledghallab.com/en/tools)** — prayer times, Quran radio, Hijri calendar, QR generator, unit converter and more · fully client-side, no tracking
+
+## Stack
+
+React 19 · TypeScript · TanStack Start & Router · Tailwind v4 · React Native · Cloudflare Workers (D1, R2, Durable Objects) · Drizzle ORM
+
+## Elsewhere
+
+[Website](https://khaledghallab.com) · [X](https://x.com/KhaledGhallab) · [LinkedIn](https://www.linkedin.com/in/khaledghallab-pro) · [Journal](https://khaledghallab.com/en/journal) · [Newsletter](https://khaledghallab.com/en/newsletter)
