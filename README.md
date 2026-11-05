@@ -8,7 +8,7 @@
 
 [![Book a call](https://img.shields.io/badge/📅_Book_a_free_call-Google_Meet-1a73e8?style=for-the-badge)](https://calendar.app.google/GSDHtMmX7eWide1w8)
 
-Have a project in mind? Book a 30-min call·
+Have a project in mind? Book a 30-min call
 
 ## What I build
 
