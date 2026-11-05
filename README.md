@@ -6,6 +6,10 @@
 
 🌐 **[khaledghallab.com](https://khaledghallab.com)** — portfolio · case studies · journal · free tools
 
+[![Book a call](https://img.shields.io/badge/📅_Book_a_free_call-Google_Meet-1a73e8?style=for-the-badge)](https://calendar.app.google/GSDHtMmX7eWide1w8)
+
+Have a project in mind? Book a 30-min call·
+
 ## What I build
 
 - **[iAuth](https://khaledghallab.com/en/work/iauth)** — local-first 2FA authenticator for Android & iOS: TOTP, HOTP & Steam Guard, encrypted backups, no backend
@@ -19,4 +23,4 @@ React 19 · TypeScript · TanStack Start & Router · Tailwind v4 · React Native
 
 ## Elsewhere
 
-[Website](https://khaledghallab.com) · [X](https://x.com/KhaledGhallab) · [LinkedIn](https://www.linkedin.com/in/khaledghallab-pro) · [Journal](https://khaledghallab.com/en/journal) · [Newsletter](https://khaledghallab.com/en/newsletter)
+[Website](https://khaledghallab.com) · [X](https://x.com/KhaledGhallab) · [LinkedIn](https://www.linkedin.com/in/khaledghallab-pro) · [Journal](https://khaledghallab.com/en/journal) · [Newsletter](https://khaledghallab.com/en/newsletter) · [Book a call](https://calendar.app.google/GSDHtMmX7eWide1w8)
